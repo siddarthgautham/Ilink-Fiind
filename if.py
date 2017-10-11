@@ -1,8 +1,8 @@
 var1 = 0
 print("lowerlimit")
-i = int(input()) 
+i = 0
 print("upperlimit")
-j = int(input())
+j = 5
           
 for var1 in range(i,j):
      print("val of Var" , var1)
